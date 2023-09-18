@@ -37,7 +37,7 @@ namespace WPF.LoginForm.View
 
         private void btnClose_Click(object sender, RoutedEventArgs e)
         {
-            
+            Application.Current.Shutdown();
         }
     }
 }
