@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF.LoginForm", "src\WPF.LoginForm\WPF.LoginForm.csproj", "{5490914E-C8C6-407C-B905-F2C3C084B156}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E440EE7D-2AAC-47B2-8F80-D1303F091729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5490914E-C8C6-407C-B905-F2C3C084B156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5490914E-C8C6-407C-B905-F2C3C084B156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5490914E-C8C6-407C-B905-F2C3C084B156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5490914E-C8C6-407C-B905-F2C3C084B156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5490914E-C8C6-407C-B905-F2C3C084B156} = {9A364633-28A8-4546-9108-EDB1BB471C02}
+	EndGlobalSection
+EndGlobal
