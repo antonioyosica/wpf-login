@@ -39,5 +39,10 @@ namespace WPF.LoginForm.View
         {
             Application.Current.Shutdown();
         }
+
+        private void btnAuthenticate_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
