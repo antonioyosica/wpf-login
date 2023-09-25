@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF.LoginForm.View"
         mc:Ignorable="d"
-        Title="LoginView" Height="550" Width="800"
+        Title="LoginView" Height="450" Width="600"
         WindowStyle="None"
         ResizeMode="NoResize"
         Background="Transparent"
@@ -120,7 +120,7 @@
                 <StackPanel Width="250"
                             Grid.Row="2"
                             Orientation="Vertical"
-                            Margin="0,35,0,0">
+                            Margin="0,15,0,0">
                     <Image Source="/Assets/Images/logo1.png"
                            Width="80" Height="80" />
                     <TextBlock Text="ENTRAR"
